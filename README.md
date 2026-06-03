@@ -84,7 +84,7 @@ The dengue series was decomposed into:
 
 This provided insight into the underlying drivers of disease incidence and confirmed strong seasonal behavior.
 
-![Monthly Dengue Cases](Outputs/figures/02_decomposition.png)
+![Decomposition](Outputs/figures/03_decomposition.png)
 
 ---
 
@@ -112,7 +112,7 @@ Most forecasting projects determine seasonal differencing through heuristics or 
 
 This adds a level of methodological rigor rarely seen in typical forecasting implementations.
 
-![Monthly Dengue Cases](Outputs/figures/04/acf_pacf.png)
+![ACF PACF Plot](Outputs/figures/04_acf_pacf.png)
 
 ---
 
